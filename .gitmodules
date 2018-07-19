@@ -1,0 +1,6 @@
+[submodule "lib/FastLED"]
+	path = lib/FastLED
+	url = https://github.com/iayanpahwa/FastLED.git
+[submodule "lib/pubsubclient"]
+	path = lib/pubsubclient
+	url = https://github.com/iayanpahwa/pubsubclient.git
